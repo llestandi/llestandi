@@ -1,4 +1,4 @@
-Hi, I’m Lucas, assistant professor at Ecole Centrale Nantes (FR)
+Hi, I’m Lucas, associate professor (MCF) at Ecole Centrale Nantes, France
 
 I use this github mostly for storing my research and teaching work. Occasionnaly, I'll make the repos that deserve it public.
 
@@ -6,6 +6,7 @@ I use this github mostly for storing my research and teaching work. Occasionnaly
 I mostly focus on the following aspects 
  - Reduced Order Modeling (intrusive)
  - Surrogate modeling (non-intrusive)
+ - Machine Learning for science
  - POD/SVD
  - Dimension reduction
  - tensor decomposition 
@@ -20,6 +21,7 @@ I'm teaching in the department of computer science. I heavily rely on jupyter no
  - Databases
  - Algorithmic and C++ programming
  - Advanced python
+ - Data visualization
  - ...
 
 📫 How to reach me : lucas.lestandi@ec-nantes.fr
